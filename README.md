@@ -42,3 +42,4 @@ Apparently (at least on iOS 7), the way scrollbar is displayed is by adding two 
     [self changeScrollBarColorFor:scrollView];
 }
 
+Warning: Of course the code is far from being optimized!
